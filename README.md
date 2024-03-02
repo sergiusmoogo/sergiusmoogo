@@ -39,7 +39,7 @@ ________________________________________________________________________________
 
 ## Let's Connect!
 - 📫 You can reach me via email at [moogoekiru@gmail.com](mailto:moogoekiru@gmail.com).
-- 🔗 Connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sergiusmoogo/)
+- 🔗 Connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sergiusmoogo)
 - 🐦 Follow me on Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-profile)
 
 Feel free to explore my GitHub repositories and don't hesitate to reach out if you have any questions or would like to collaborate on a project!
