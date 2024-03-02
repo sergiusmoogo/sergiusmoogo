@@ -9,6 +9,27 @@
 
 ## Current Focus
 - 📚 I'm currently enhancing my knowledge and skills in various programming languages and tools commonly used in software development and data engineering.
+__________________________________________________________________________________________________________________________________________________________________________________________________
+### Current Focus:
+
+#### Java:
+- **Language**: I'm deepening my understanding of Java, exploring advanced concepts and best practices for building robust and scalable applications.
+- **Tools**: I'm honing my skills with popular Java development tools such as IntelliJ IDEA, Eclipse, and Maven for efficient project management and dependency management.
+
+#### Python:
+- **Language**: Python is a cornerstone of my skill set, and I'm constantly refining my knowledge of its syntax, libraries, and frameworks for various applications, including web development, data analysis, and automation.
+- **Tools**: I'm familiarizing myself with Python development tools like Django, Flask, FastAPI, PyCharm, Jupyter Notebook, and Anaconda for streamlined development and data analysis workflows.
+
+#### SQL:
+- **Language**: I'm strengthening my proficiency in SQL for database management, data manipulation, and querying. I'm delving into advanced SQL techniques and optimization strategies to work with large datasets effectively.
+- **Tools**: I'm practicing with SQL database management systems (DBMS) such as MySQL, PostgreSQL, and Microsoft SQL Server, along with tools like SQL Server Management Studio (SSMS) and DBeaver for database administration and development tasks.
+
+#### JavaScript:
+- **Language**: JavaScript is essential for frontend and backend web development, and I'm expanding my knowledge of its syntax, libraries, and frameworks like Node.js and React.js.
+- **Tools**: I'm exploring JavaScript development tools such as Visual Studio Code, WebStorm, and npm for building interactive and dynamic web applications with ease.
+
+By focusing on these languages and tools, I aim to deepen my expertise in software development and data engineering, empowering me to tackle diverse projects and challenges with confidence.
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Collaboration
 - 💞️ I'm open to collaborating on projects related to software development, data engineering, and IT. Whether it's building applications, analyzing data, or solving real-world problems, I'm eager to contribute and learn from others.
@@ -21,7 +42,6 @@
 Feel free to explore my GitHub repositories and don't hesitate to reach out if you have any questions or would like to collaborate on a project!
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 <!---
