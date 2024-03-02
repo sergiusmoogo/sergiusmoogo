@@ -23,9 +23,12 @@ ________________________________________________________________________________
 #### SQL:
 - **Language**: I'm strengthening my proficiency in SQL for database management, data manipulation, and querying. I'm delving into advanced SQL techniques and optimization strategies to work with large datasets effectively.
 - **Tools**: I'm practicing with SQL database management systems (DBMS) such as MySQL, PostgreSQL, and Microsoft SQL Server, along with tools like SQL Server Management Studio (SSMS) and DBeaver for database administration and development tasks.
+       --#### MongoDB:
+- **Database**: I'm learning MongoDB as a NoSQL database solution for flexible and scalable data storage. I'm exploring its document-oriented model and features for managing unstructured data and building modern applications.
+- **Tools**: I'm gaining hands-on experience with MongoDB tools like MongoDB Compass and MongoDB Atlas for database administration, development, and deployment tasks.
 
 #### JavaScript:
-- **Language**: JavaScript is essential for frontend and backend web development, and I'm expanding my knowledge of its syntax, libraries, and frameworks like Node.js and React.js.
+- **Language**: JavaScript is essential for frontend and backend web development, and I'm expanding my knowledge of its syntax, libraries, and frameworks like Node.js, React.js and Angular.
 - **Tools**: I'm exploring JavaScript development tools such as Visual Studio Code, WebStorm, and npm for building interactive and dynamic web applications with ease.
 
 By focusing on these languages and tools, I aim to deepen my expertise in software development and data engineering, empowering me to tackle diverse projects and challenges with confidence.
